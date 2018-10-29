@@ -1,0 +1,16 @@
+.container {
+    font-family: 'Varela Round', sans-serif; 
+}
+
+.jumbotron {
+    background-color: rgb(255,0,255,0.2);
+    color: darkorchid
+}
+
+.jumbotron p {
+    font-size: 20px;
+}
+
+.panel {
+    border: 1px solid #ebebeb;
+}
