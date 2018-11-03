@@ -3,8 +3,9 @@
 }
 
 .jumbotron {
-    background-color: rgb(255,0,255,0.2);
-    color: darkorchid
+    background-color: #7f462c;
+    color: white;
+    text-align: center;
 }
 
 .jumbotron p {
@@ -13,4 +14,18 @@
 
 .panel {
     border: 1px solid #ebebeb;
+}
+
+h3 {
+    background-color: #337ab7;
+    color: white;
+    padding: 10px;   
+}
+
+label {
+    font-weight: bold;
+}
+
+form {
+    padding: 20px;
 }
